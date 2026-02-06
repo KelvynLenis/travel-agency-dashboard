@@ -61,8 +61,6 @@ const dashboard = ({ loaderData }: Route.ComponentProps) => {
             ))}
         </div>
       </section>
-
-      <TripCard />
     </main>
   );
 };
